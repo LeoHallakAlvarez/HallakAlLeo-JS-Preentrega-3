@@ -12,6 +12,10 @@ section {
   align-items: center;
 }
 
+.logon{
+    width: 111px;
+}
+
 h1{
 
   position: relative;
